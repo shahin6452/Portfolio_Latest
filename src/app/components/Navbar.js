@@ -83,8 +83,7 @@ export default function Navbar() {
           {/* Resume CTA */}
           <div className="hidden md:block">
             <a
-              href="/resume.pdf"
-              target="_blank"
+              href="#"
               rel="noopener noreferrer"
               className="btn-primary text-sm"
               style={{ padding: "0.5rem 1.25rem" }}
